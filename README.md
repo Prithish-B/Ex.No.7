@@ -29,7 +29,8 @@ o Notify user of overlapping appointments or free time slots.
 3. Wellness Tips Generator:
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
-
+# OUTPUT
+[EXPERIMENT 7.pdf](https://github.com/user-attachments/files/23012538/EXPERIMENT.7.pdf)
 
 
 # Result: 
